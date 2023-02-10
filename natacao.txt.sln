@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "natacao.txt", "natacao.txt\natacao.txt.csproj", "{4E5B2C34-3E0A-44E8-918F-74389B48BE05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E5B2C34-3E0A-44E8-918F-74389B48BE05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E5B2C34-3E0A-44E8-918F-74389B48BE05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E5B2C34-3E0A-44E8-918F-74389B48BE05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E5B2C34-3E0A-44E8-918F-74389B48BE05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C17FA9BD-136E-4693-AF39-4E0955154CDB}
+	EndGlobalSection
+EndGlobal
